@@ -1,79 +1,85 @@
-# 📊 Impact of Foreign Media on Social Values — A Quantitative Field Study
+# 🎬 تأثير الأفلام والمسلسلات الأجنبية على القيم الاجتماعية لدى الشباب
+### The Impact of Foreign Films & TV Series on the Social Values of Youth
 
-> A quantitative research project exploring the influence of foreign movies and TV series on the social values of Saudi university students. Conducted as part of a Bachelor's degree in Sociology at King Saud University.
-
----
-
-## 🎯 Research Objective
-
-Investigate whether foreign media consumption has a measurable impact on the social values of young adults, analyzing both **positive** and **negative** effects across demographic segments.
+> **ع:** دراسة ميدانية كمية على طلبة كلية الآداب بجامعة الملك سعود، تقيس تأثير الأفلام والمسلسلات الأجنبية على القيم الاجتماعية لدى الشباب — إيجاباً وسلباً. أُنجزت ضمن بكالوريوس علم الاجتماع.
+>
+> **EN:** A quantitative field study on students of the College of Arts at King Saud University, measuring the positive and negative effects of foreign films and TV series on the social values of youth. Completed as part of a B.A. in Sociology.
 
 ---
 
-## 📋 Methodology
+## 🎯 هدف البحث | Research Objective
 
-| Component | Details |
-|-----------|---------|
-| **Research Type** | Descriptive field study |
-| **Sample Size** | 100 respondents |
-| **Population** | Students at the College of Arts, King Saud University |
-| **Data Collection** | Online survey (WhatsApp & Telegram) |
-| **Analysis Tool** | IBM SPSS |
-| **Statistical Methods** | Frequencies, Means, Standard Deviations, t-test, One-Way ANOVA |
+**ع:** قياس ما إذا كان استهلاك الأفلام والمسلسلات الأجنبية له تأثير دال إحصائياً على القيم الاجتماعية، وتحليل الفروق وفق الجنس، العمر، والمعدل الدراسي.
+
+**EN:** To measure whether foreign film/series consumption has a statistically significant impact on social values, analyzing differences by gender, age, and GPA.
 
 ---
 
-## 🔬 Hypotheses Tested
+## 📋 المنهجية | Methodology
 
-| # | Hypothesis | Result |
-|---|-----------|--------|
-| H1 | Significant differences in media impact on **positive** social values by **gender** | ❌ Not significant (p = 0.203) |
-| H2 | Significant differences in media impact on **negative** social values by **gender** | ✅ Significant (p = 0.002) — Males scored higher |
-| H3 | Significant differences by **age group** on positive values | ✅ Significant (p = 0.0197) |
-| H4 | Significant differences by **age group** on negative values | ✅ Significant (p = 0.0022) |
-| H5 | Significant differences by **GPA** on positive values | ❌ Not significant (p = 0.407) |
-| H6 | Significant differences by **GPA** on negative values | ❌ Not significant (p = 0.705) |
+| العنصر \| Component | التفاصيل \| Details |
+| ------------------ | ------------------- |
+| نوع البحث \| Research Type | دراسة وصفية ميدانية \| Descriptive field study |
+| حجم العينة \| Sample Size | 100 مستجيب (58% ذكور، 42% إناث) \| 100 respondents |
+| المجتمع \| Population | طلاب كلية الآداب، جامعة الملك سعود \| Students, College of Arts, KSU |
+| جمع البيانات \| Data Collection | استبيان إلكتروني (WhatsApp & Telegram) \| Online survey |
+| أداة التحليل \| Analysis Tool | IBM SPSS |
+| الأساليب الإحصائية \| Statistical Methods | تكرارات، متوسطات، انحرافات معيارية، t-test، One-Way ANOVA |
 
 ---
 
-## 📈 Key Findings
+## 📈 أبرز النتائج | Key Findings
 
-- **Netflix** was the most used (34%) and most preferred (48.7%) platform among respondents
+**ع:**
+- **Netflix** الأكثر استخداماً (34%) والأكثر تفضيلاً (48.7%)
+- **الترفيه** (23.5%) و **القصة** (17.7%) أبرز أسباب المشاهدة
+- متوسط التأثير الإيجابي: **3.56/5** — متوسط التأثير السلبي: **3.20/5**
+- **تعلّم اللغة** الأعلى بين الآثار الإيجابية (المتوسط = 4.37)
+- **مخاوف التغريب** الأعلى بين الآثار السلبية (المتوسط = 3.82)
+- الذكور أدركوا تأثيراً سلبياً **أكبر بشكل دال إحصائياً** من الإناث (p=0.002)
+
+**EN:**
+- **Netflix** was the most used (34%) and most preferred (48.7%) platform
 - **Entertainment** (23.5%) and **storyline** (17.7%) were the top reasons for watching
-- The overall positive impact score averaged **3.56/5** (moderately high)
-- The overall negative impact score averaged **3.20/5** (moderate)
+- Mean positive impact: **3.56/5** — Mean negative impact: **3.20/5**
 - **Language learning** ranked highest among positive effects (mean = 4.37)
 - **Westernization concerns** ranked highest among negative effects (mean = 3.82)
-- Males perceived **significantly more negative impact** from foreign media than females
+- Males perceived **significantly more negative impact** than females (p=0.002)
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated
+## 🛠️ المهارات المُثبتة | Tools & Skills Demonstrated
 
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-- **Statistical Testing:** Independent samples t-test, One-Way ANOVA
-- **Descriptive Statistics:** Frequencies, means, standard deviations, cross-tabulation
-- **Research Design:** Hypothesis formulation, survey construction, sampling methodology
-- **Data Interpretation:** Translating statistical outputs into actionable findings
-
----
-
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| `thesis.pdf` | Full research paper (Arabic, 68 pages) |
+| المهارة \| Skill | التفاصيل \| Details |
+| ---------------- | ------------------- |
+| الاختبارات الإحصائية \| Statistical Testing | Independent samples t-test, One-Way ANOVA |
+| الإحصاء الوصفي \| Descriptive Statistics | تكرارات، متوسطات، انحرافات، جداول متقاطعة |
+| تصميم البحث \| Research Design | صياغة الفرضيات، بناء الاستبيان، منهجية العينة |
+| تفسير البيانات \| Data Interpretation | تحويل المخرجات الإحصائية إلى نتائج عملية |
 
 ---
 
-## 👤 Author
+## 📁 ملفات المشروع | Project Files
 
-**Ahmed Alhazazi** — Sociology, King Saud University (2021)
-Supervised by: Prof. Obaid Al-Omari
+| الملف \| File | الوصف \| Description |
+| ------------- | ------------------- |
+| [`thesis.pdf`](thesis.pdf) | البحث الكامل (عربي، 68 صفحة) \| Full research paper (Arabic, 68 pages) |
 
 ---
 
-## 📝 Note
+## 👤 المؤلف | Author
 
-This project was completed as a graduation requirement for the Bachelor of Arts in Sociology at King Saud University. The research was conducted entirely by the author, including survey design, data collection, SPSS analysis, and interpretation of results.
+**أحمد الهزازي | Ahmed Alhazazi**
+- بكالوريوس علم الاجتماع، جامعة الملك سعود (2021) | B.A. Sociology, King Saud University (2021)
+- بإشراف | Supervised by: Prof. Dr. Obaid Al-Omari
+- 🔗 [LinkedIn](https://linkedin.com/in/ahmed-alhazazi) · 💻 [GitHub](https://github.com/Ahmed-hz) · 📧 AlhazzaziAhmed@gmail.com
+
+---
+
+## 📝 ملاحظة | Note
+
+**ع:** أُنجز هذا المشروع كمتطلب تخرج لبكالوريوس علم الاجتماع بجامعة الملك سعود. نُفذ البحث بالكامل من قبل المؤلف، شاملاً تصميم الاستبيان، جمع البيانات، تحليل SPSS، وتفسير النتائج.
+
+**EN:** This project was completed as a graduation requirement for the B.A. in Sociology at King Saud University. The research was conducted entirely by the author, including survey design, data collection, SPSS analysis, and interpretation of results.
